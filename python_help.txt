@@ -1,0 +1,22 @@
+Python Download page=https://www.python.org/downloads/release/python-2710/
+
+
+http://www.tutorialspoint.com/python/python_if_else.htm
+
+http://www.tutorialspoint.com/python/python_while_loop.htm
+
+http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html
+
+Python Loop
+
+http://learnpythonthehardway.org/book/ex33.html
+
+https://docs.python.org/2.7/library/index.html
+
+http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python
+
+https://s3.amazonaws.com/udacity-hosted-downloads/ud036/How+to+get+the+address+of+a+folder+on+a+Mac.pdf
+
+https://docs.python.org/2/library/functions.html
+
+http://www.wdyl.com/#
